@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## REGRESSION
+1. Linear Regression
+2. Logistic Regression
+3. Polynomial Regression
+4. Stepwise Regression
+5. Ridge Regression
+6. Lasso Regression
+7. Elasticnet Regression
+8. Ordinary Least Square Regression
+9. Least Angle Regression (LARS LASSO)
+10. Orthogonal Matching Pursuit (OMP)
+11. Bayesian Linear Regression
+12. Stochastic Gradient Descent Regression
+13. Huber Regressor
+14. Quantile Regression
+15. Principal Component Regression
+16. Partial Least Squares Regression
+17. Support Vector Regression
+18. Ordinal Regression 
+19. Poisson Regression
+20. Negative Binomial Regression
+21. Quasi Binomial Regression
+22. Bounding Box Regression
+23. Tobit Regression
+24. Nearest NeighboR Regression
+25. Gaussian process regression
 
-You can use the [editor on GitHub](https://github.com/asarmohd/mlalgo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## CLASSIFICATION
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/asarmohd/mlalgo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## CLUSTRING
