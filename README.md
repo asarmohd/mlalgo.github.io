@@ -25,8 +25,8 @@
 24. Nearest NeighboR Regression
 25. Gaussian process regression
 
-## CLASSIFICATION
+'''## CLASSIFICATION
 
 
 
-## CLUSTRING
+'''## CLUSTRING
