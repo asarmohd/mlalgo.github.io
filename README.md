@@ -1,5 +1,5 @@
 ## REGRESSION
-1. [Linear Regression](https://github.com/user/repo/blob/branch/other_file.md)
+1. [Linear Regression](https://github.com/asarmohd/mlalgo.github.io/blob/master/Regression/Linear%20Regression/LinearRegression.md)
 2. Logistic Regression
 3. Polynomial Regression
 4. Stepwise Regression
