@@ -6,11 +6,11 @@ For linear regression, we use the mean squared error cost function. It is the av
 ![Linear Regression Cost funton](https://github.com/asarmohd/mlalgo.github.io/blob/master/Regression/Linear%20Regression/CostFuntion.jpeg)
 
 
-'''
+''' python
 >>> from sklearn import linear_model
 >>> reg = linear_model.LinearRegression()
 >>> reg.fit([[0, 0], [1, 1], [2, 2]], [0, 1, 2])
 LinearRegression()
 >>> reg.coef_
 array([0.5, 0.5])
-...
+'''
